@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://your-domain.co.za/</loc></url>
-<url><loc>https://your-domain.co.za/services.html</loc></url>
-<url><loc>https://your-domain.co.za/portfolio.html</loc></url>
-<url><loc>https://your-domain.co.za/contact.html</loc></url>
+  <url><loc>https://mobicomx.netlify.app/</loc></url>
+  <url><loc>https://mobicomx.netlify.app/services.html</loc></url>
+  <url><loc>https://mobicomx.netlify.app/portfolio.html</loc></url>
+  <url><loc>https://mobicomx.netlify.app/payments.html</loc></url>
+  <url><loc>https://mobicomx.netlify.app/contact.html</loc></url>
 </urlset>
