@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mobicom-business-solutions.maverickm1983.chatgpt.site/sitemap.xml
